@@ -1,0 +1,12 @@
+{
+  "name": "rn-fbsdk-example",
+  "displayName": "rn-fbsdk-example",
+  "expo": {
+    "name": "rn-fbsdk-example",
+    "slug": "rn-fbsdk-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
